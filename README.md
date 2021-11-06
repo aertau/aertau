@@ -1,17 +1,11 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
+<a href="https://www.linkedin.com/in/aertau/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/your_profile">
+<a href="https://t.me/aertau">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/your_profile">
+<a href="https://www.instagram.com/aertau">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -30,7 +24,7 @@ My name is Alisher.
 
 🚧 **My TODO List:**
 <!-- TODO-IST:START -->
-* [x] Become a devops engineer
-* [ ] Become a senior devops engineer
+* [x] Become a DevOps engineer
+* [ ] Become a Architect
 * [ ] Become a SRE engineer       
 <!-- TODO-IST:END -->
